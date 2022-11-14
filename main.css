@@ -54,7 +54,7 @@
   #drag-container img:hover, #drag-container video:hover {
     -webkit-box-shadow: 0 0 15px #fffd;
             box-shadow: 0 0 15px #fffd;
-    -webkit-box-reflect: below 10px linear-gradient(transparent, transparent, #0007);
+    -webkit-box-reflect: below 10px linear-gradient(transparent, transparent, #F996C2);
   }
   
   #drag-container p {
